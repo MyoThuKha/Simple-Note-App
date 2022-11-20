@@ -12,6 +12,7 @@ void main() async {
   await UserPrefs.init();
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       initialRoute: '/',
       routes: {
         '/': (context) => const HomePage(),
