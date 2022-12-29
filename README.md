@@ -5,5 +5,6 @@ Flutter Project
 - Flutter
 - Sqflite
 - Shared Preferences
-- Icons
 - Flutter Staggered Grid View
+- Flutter Spinkit
+
